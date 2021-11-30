@@ -1,0 +1,25 @@
+div.fondo{
+    background-color: antiquewhite;
+}
+body{
+    background-color: rgb(238, 208, 170);
+}
+h1.carta{
+    color: rgb(71, 3, 3);
+    position: relative;
+    left: 400px;
+}
+p.rojo{
+    color: red;
+}
+pre.rojo{
+    color: red;
+}
+h3.cafe{
+    position: relative;
+    left: 300px;
+}
+h3.contacto{
+    position: relative;
+    left: 600px;
+}
